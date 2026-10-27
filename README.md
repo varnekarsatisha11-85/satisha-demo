@@ -1,7 +1,7 @@
-# satisha-demo
+cd# satisha-demo
 This is my first Git Repository.
 <br>
-Author- Satisha Varnekar
+Author- Satisha Varnekar(satisha-demo)
 <br>
 <h1>
   Hello Everyone..!!
