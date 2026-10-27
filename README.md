@@ -5,7 +5,7 @@ Author- Satisha Varnekar
 <br>
 <h1>
   Hello Everyone..!!
-  <p>
+</h1>
+<p>
     Good Morning...!!
   </p>
-</h1>
